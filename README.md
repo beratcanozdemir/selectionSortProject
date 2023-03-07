@@ -1,0 +1,1 @@
+## www.patika.dev Veri Yapıları ve Algoritmalar Eğitimi kapsamında yaptığım Selection Sort Projesi. İçerisinde bir adet README, bir adet de proje dosyası bulunmaktadır.
